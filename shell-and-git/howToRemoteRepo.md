@@ -19,5 +19,5 @@
 
 ## 5. Änderung pushen
 
-- git branch -M main
+- git branch -m main
 - git push -u origin main
