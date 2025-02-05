@@ -21,3 +21,7 @@
 
 - git branch -m main
 - git push -u origin main
+
+Hier in dem neuen Branch kann ich also Dinge anpassen ohne den Main zu zerstören
+
+Der Command checkout -b feature/neuer-funktionsname ist sehr praktisch
